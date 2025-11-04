@@ -1,6 +1,6 @@
 # 🎓 Student Exam Score Prediction
 
-Student exam score prediction using Machine Learning and Data Science — includes data preprocessing, EDA, feature engineering, and model comparison using Linear Regression, Random Forest, Gradient Boosting, Decision Tree, and SVM, with a Streamlit app to predict performance based on study habits, sleep hours, attendance, and previous scores.
+Student exam score prediction using Machine Learning — includes preprocessing, EDA, feature engineering, and model comparison (LR, RF, GB, DT, SVM) with a Streamlit app based on study habits, sleep, attendance, and previous scores.
 ---
 
 ## 🚀 Project Overview
